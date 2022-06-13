@@ -197,11 +197,11 @@ body.dark-theme {
 .profile__social {
   display: flex;
   justify-content: center;
-  column-gap: .75rem;
+  column-gap: 1.75rem;
 }
 
 .profile__social-link {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   color: var(--title-color);
   transition: .3s;
 }
@@ -213,7 +213,7 @@ body.dark-theme {
 .profile__info {
   grid-template-columns: repeat(3, max-content);
   justify-content: center;
-  column-gap: 2.5rem;
+  column-gap: 0.5rem;
 }
 
 .profile__info-group {
@@ -222,7 +222,7 @@ body.dark-theme {
 
 .profile__info-number {
   font-size: var(--normal-font-size);
-  margin-bottom: .25rem;
+  margin-bottom: 0.25rem;
 }
 
 .profile__info-description {
