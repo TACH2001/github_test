@@ -385,7 +385,7 @@ body.dark-theme {
 
 .skills__data {
   display: flex;
-  column-gap: .5rem;
+  column-gap: 1.5rem;
 }
 
 .skills__data i {
