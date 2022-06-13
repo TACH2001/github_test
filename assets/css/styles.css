@@ -197,7 +197,7 @@ body.dark-theme {
 .profile__social {
   display: flex;
   justify-content: center;
-  column-gap: 1.75rem;
+  column-gap: 3.75rem;
 }
 
 .profile__social-link {
